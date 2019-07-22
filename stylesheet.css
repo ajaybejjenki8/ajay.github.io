@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+}
+nav{
+    color: black;
+    background-color: rgb(99, 99, 250);
+}
+.yourElement{
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+  .infinity{
+      nav-up: initial;
+  }
+  .login{
+      text-align: center;
+  }
+  h3{
+      
+  }
